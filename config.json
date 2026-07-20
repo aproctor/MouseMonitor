@@ -1,0 +1,12 @@
+{
+  "vendor_id": null,
+  "product_id": null,
+  "device_index": null,
+  "poll_interval_seconds": 900,
+  "notify_thresholds": [
+    30,
+    15,
+    5
+  ],
+  "notify_cooldown_hours": 6
+}

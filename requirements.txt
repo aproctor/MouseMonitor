@@ -1,0 +1,5 @@
+hidapi>=0.14.0
+pystray>=0.19.5
+Pillow>=10.0.0
+winotify>=1.1.0
+pyinstaller>=6.0.0
